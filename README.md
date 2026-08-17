@@ -1,6 +1,6 @@
 ### Hi, I'm Zack 👋
 
-AV control systems programmer, Software developer and production engineer
+AV control systems programmer, software developer and production engineer
 
 - 🎛️ Q-SYS certified, currently working toward CTS and Q-SYS 201 programming certs
 - 🛠️ Maintain and develop modules for [Bitfocus Companion](https://bitfocus.io/companion), used in live production and control workflows
